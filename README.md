@@ -24,3 +24,5 @@ A few interesting facts on Palindromes:
 After a little intro to palindromes, let us now get to the problem at hand.
 
 click [here](https://jovian.com/dajo09/pythondsa-course-project) to view my notebook on [jovian.com](https://jovian.com)
+
+**[view Course Certificate](https://jovian.com/certificate/MFQTIOJQGM)**
